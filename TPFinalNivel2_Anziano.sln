@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presentacion", "presentacion\presentacion.csproj", "{892BD09D-DA62-44FF-95CD-10E14D4E5453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{3DED9645-0BDE-4828-B7D1-3FE159E83898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{A9EA9E4D-D165-4D13-B4CE-06C662D9E63D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892BD09D-DA62-44FF-95CD-10E14D4E5453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892BD09D-DA62-44FF-95CD-10E14D4E5453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892BD09D-DA62-44FF-95CD-10E14D4E5453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892BD09D-DA62-44FF-95CD-10E14D4E5453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DED9645-0BDE-4828-B7D1-3FE159E83898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DED9645-0BDE-4828-B7D1-3FE159E83898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DED9645-0BDE-4828-B7D1-3FE159E83898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DED9645-0BDE-4828-B7D1-3FE159E83898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EA9E4D-D165-4D13-B4CE-06C662D9E63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EA9E4D-D165-4D13-B4CE-06C662D9E63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EA9E4D-D165-4D13-B4CE-06C662D9E63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EA9E4D-D165-4D13-B4CE-06C662D9E63D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F259748-B838-44FD-BC68-6B54E49C9220}
+	EndGlobalSection
+EndGlobal

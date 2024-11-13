@@ -1,0 +1,17 @@
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\bin\Debug\presentacion.exe
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\bin\Debug\presentacion.pdb
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\obj\Debug\presentacion.exe
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\obj\Debug\presentacion.pdb
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\obj\Debug\presentacion.FormVerArticulos.resources
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\bin\Debug\Dominio.dll
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\bin\Debug\Negocio.dll
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\bin\Debug\Dominio.pdb
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\bin\Debug\Negocio.pdb
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\obj\Debug\presenta.D2D8CCE5.Up2Date
+C:\Users\juani\Desktop\acces\cSharp-MaxiPrograma\Tp\TPFinalNivel2_Anziano\presentacion\obj\Debug\presentacion.FormAgregarArticulo.resources
